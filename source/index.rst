@@ -1,8 +1,8 @@
 Welcome to NGINX APP Protect lab guide
 ######################################
 
-Publish and protect super modern applications
-*********************************************
+Publish and protect modern applications
+***************************************
 
 .. warning :: For any remark or mistake in this lab, please send a Teams chat to Matthieu DIERICK.
 

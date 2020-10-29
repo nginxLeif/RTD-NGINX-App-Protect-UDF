@@ -5,7 +5,7 @@ It's time to deploy Arcadia Finance application :)
 
 **Deploy Arcadia Application with kubectl command**
 
-With Kubernetes, there are several ways to deploy containers (pods). One way is to use ``kubectl`` command with a YAML deployment file.
+With K8S, there are several ways to deploy containers (pods). One way is to use ``kubectl`` command with a YAML deployment file.
 I prepared this YAML file below (this is only for the main app container). You can have a look, and see it will deploy containers from my Gitlab.com repo.
 
 .. code-block:: YAML
